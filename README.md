@@ -28,7 +28,7 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprendizado de máquina capaz de classificar variedades de trigo (Kama, Rosa e Canadian) com base no "Seeds Dataset" do UCI. O trabalho abrange análise de dados, aplicação de algoritmos como KNN, Random Forest e SVM, otimização por Grid Search e interpretação dos resultados. Focado em eficiência e precisão, o objetivo é substituir a classificação manual, comum em cooperativas agrícolas, por uma abordagem automatizada e confiável.
 
 
 ## 📁 Estrutura de pastas
