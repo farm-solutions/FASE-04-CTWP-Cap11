@@ -10,14 +10,13 @@
 
 ## Nome do grupo
 
-## Grupo 20
+## Grupo 54
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/caiorcastro/">Caio Rodrigues Castro</a> 
 - <a href="https://www.linkedin.com/in/ederson-badeca/">Ederson Luiz Badeca dos Santos</a> 
 - <a href="https://www.linkedin.com/in/digitalmanagerfelipesoares/">Felipe Soares Nascimento</a>
 - <a href="https://www.linkedin.com/in/lfhillesheim/">Lucas Ferreira Hillesheim</a>
-- <a href="https://www.linkedin.com/in/luisfuturist/">Luís Fillipe Emidio</a>
 
 
 ## 👩‍🏫 Professores:
