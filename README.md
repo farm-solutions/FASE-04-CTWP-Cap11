@@ -33,7 +33,7 @@ Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprend
 
 ## 🔧 Como executar o código
 
-Para executar o código, siga as [Notebook](./src/notebook.ipynb)
+Para executar o código, siga as [instruções de instalação e configuração](./document/Readme.md)
 
 
 ## 🗃 Histórico de lançamentos
