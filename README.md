@@ -33,15 +33,18 @@ Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprend
 
 ## 🔧 Como executar o código
 
-[Notebook](./src/notebook.ipynb)
+Para executar o código, siga as [Notebook](./src/notebook.ipynb)
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-
+* 0.2.0 - 28/11/2024
+    * Style: apply FIAP template
+    * Docs: add a technical readme for the project
+* 0.1.0 - XX/XX/2024
+    * Initial commit
+    * Add create tables script
+    * Add database
 
 ## 📋 Licença
 
