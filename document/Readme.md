@@ -14,7 +14,7 @@ Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprend
 1. **Clone the repository:**
 
    ```bash
-   git clone <[farm-solutions/Cap3-MachineLearning-Scikit-learn](https://github.com/farm-solutions/Cap3-MachineLearning-Scikit-learn)>
+   git clone https://github.com/farm-solutions/Cap3-MachineLearning-Scikit-learn
 
    ```
 
