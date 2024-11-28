@@ -32,7 +32,7 @@ Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprend
      ```bash
      export $(cat .env)
      # windows users can use the the set-env.ps1 script
-    \.scripts\set-env.ps1
+     \.scripts\set-env.ps1
      ```
 
 3. **Install dependencies:**
