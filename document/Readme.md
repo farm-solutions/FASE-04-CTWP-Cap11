@@ -46,6 +46,6 @@ Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprend
    ```
 
 4. run jupter notebook
-To run the code [Notebook](./src/notebook.ipynb)
+To run the code [Notebook](/src/notebook.ipynb)
 
 
