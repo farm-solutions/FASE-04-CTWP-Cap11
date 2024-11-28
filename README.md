@@ -31,27 +31,9 @@
 Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprendizado de máquina capaz de classificar variedades de trigo (Kama, Rosa e Canadian) com base no "Seeds Dataset" do UCI. O trabalho abrange análise de dados, aplicação de algoritmos como KNN, Random Forest e SVM, otimização por Grid Search e interpretação dos resultados. Focado em eficiência e precisão, o objetivo é substituir a classificação manual, comum em cooperativas agrícolas, por uma abordagem automatizada e confiável.
 
 
-## 📁 Estrutura de pastas
-
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
-
-- <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
-
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
-
-- <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
-
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
-
-- <b>scripts</b>: Posicione aqui scripts auxiliares para tarefas específicas do seu projeto. Exemplo: deploy, migrações de banco de dados, backups.
-
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
-
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
 ## 🔧 Como executar o código
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
+[Notebook](./src/notebook.ipynb)
 
 
 ## 🗃 Histórico de lançamentos

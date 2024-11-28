@@ -3,6 +3,7 @@
 *.xls
 *.xlsx
 venv/
+.venv/
 .env
 credential.json
 __pycache__/
