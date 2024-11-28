@@ -6,9 +6,7 @@
 
 <br>
 
-# Nome do projeto
-
-## Nome do grupo
+# Implementando algoritmos de Machine Learning com Scikit-learn
 
 ## Grupo 54
 
@@ -41,7 +39,7 @@ Para executar o código, siga as [instruções de instalação e configuração]
 * 0.2.0 - 28/11/2024
     * Style: apply FIAP template
     * Docs: add a technical readme for the project
-* 0.1.0 - XX/XX/2024
+* 0.1.0 - 23/11/2024
     * Initial commit
     * Add create tables script
     * Add database
