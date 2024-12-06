@@ -45,7 +45,7 @@ Este projeto utiliza a metodologia CRISP-DM para desenvolver um modelo de aprend
    pip install -r config/requirements.txt
    ```
 
-4. run jupter notebook
+4. run jupyter notebook
 To run the code [Notebook](/src/notebook.ipynb)
 
 
